@@ -1,3 +1,9 @@
-#triviaContainer {
-    display: block;
+body {
+text-align: center;
+}
+#container{
+    color: blue;
+}
+header{
+    color:orange;
 }
