@@ -39,6 +39,7 @@ $(document).ready(function(){
             displayResults();
         }
     }
+    // function to display results once game is over
     function displayResults(){
         container.html("<div id='results'>");
         container.append("<h3>All Done!</h3>");
