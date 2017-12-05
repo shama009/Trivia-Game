@@ -1,9 +1,30 @@
 body {
-text-align: center;
+    text-align: center;
+    background-image: url("../images/trivia-bg.jpg");
 }
-#container{
+#container {
+    background: rgb(108, 212, 212);
+    width:1000px;
+    margin: 0 auto;
+    color: black;
+}
+h2{
     color: blue;
 }
 header{
-    color:orange;
+    color: rgb(49, 0, 128);
+}
+#done {
+    background-color: rgb(226, 215, 215); /* Green */
+    border: none;
+    padding: 15px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+#done:hover{
+    background-color: rgb(170, 169, 169);
 }
