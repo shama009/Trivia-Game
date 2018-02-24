@@ -2,7 +2,7 @@
 
 This is a computer quiz trivia Game built using Bootstrap, Javascript, JQuery.
 
-**It is a timed quiz**.
+It is a **timed quiz**.
 
 User should click Start button to play.
 
